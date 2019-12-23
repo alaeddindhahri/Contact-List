@@ -1,0 +1,7 @@
+.modal-body{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    font-size: 1.2rem;
+}

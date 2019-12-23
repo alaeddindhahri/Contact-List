@@ -1,0 +1,14 @@
+.container-fluid{
+  /* border:solid ; */
+}
+.btn-add{
+  margin-top: 5%;
+  justify-content: center;
+}
+.welcome{
+  padding: 2%;
+  justify-content: center;
+  margin-bottom: 2%;
+  font-size: 3rem;
+  text-align: center;
+}
